@@ -51,19 +51,20 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "e6vmz8vfxu",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://simonichouse.github.io/Taxi_Nipon2021/",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Nipon Taxi Service Thailand รับ-ส่งสนามบิน เหมาแท็กซี่เที่ยวทั่วไทย",
+        "meta_descr": "รับ-ส่งสนามบิน บริการแท็กซี่เหมา เรียกแท็กซี่ เหมารถรับจ้าง รถเหมานำเที่ยว แท็กซี่รับจ้าง เหมาแท็กซี่ รถเช่าพร้อมคนขับ บริการรถเช่า รถเก๋ง รถตู้ รถเหมา รถกะบะ รถขนของ รถรับส่งสนามบิน รถรับจ้าง โทร 0830459276",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
