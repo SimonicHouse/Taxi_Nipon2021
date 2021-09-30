@@ -45,7 +45,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 15,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
